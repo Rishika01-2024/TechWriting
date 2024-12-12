@@ -1,4 +1,4 @@
-# Notepad++ : Power of Ctrl+F and Find in Files
+# Notepad++ : Magic of Ctrl+F and Find in Files
 
 Have you ever had to sift through a massive collection of text or log files filled with data, only to find a specific piece of information? It can feel like searching for a needle in a haystack, right?
 
